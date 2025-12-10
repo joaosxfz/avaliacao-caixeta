@@ -1,0 +1,14 @@
+#topo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+    background-color: dimgray;
+    border: 3px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#coisas {
+    text-align: center;
+}
